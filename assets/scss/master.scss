@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/** Variables de fuente **/
+$font-family: 'Poppins',sans-serif;
+$font-size: 1em;
+
+/** Varables de color **/
+$negro: #272b31;
+$blanco: #ffffff;
+$rojo: #e7514f;
+$azul: #5f9eb5;
+$amarillo: #fd893b;
+
+/** Estilos Generales **/
+* {
+    z-index: 1;
+}
+
+body {
+    font-family: $font-family;
+    font-size: $font-size;
+    font-weight: 400;
+    color: $blanco;
+}
+
+hr {
+    background-color: $negro;
+    opacity: 1;
+    height: 2px !important;
+}
+
+.black {
+    color: $negro;
+    font-weight: 700
+}
+
+.hide {
+    opacity: 0;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.img-fluid {
+    min-width: 100%;
+}
+
+.text-color-red {
+    color: $rojo;
+}
+
+.text-color-blue {
+    color: $azul;
+}
+
+/** Estilos Banner **/
+.banner-text {
+    position: relative;
+
+    p {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0 1em;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: calc(2em + 1vw);
+    }
+}
+
+/** Estilos particulas **/
+#particles-js {
+    position: relative;
+
+    img,
+    svg {
+        width: 99%;
+        position: relative;
+        z-index: 1000;
+    }
+}
+
+canvas.particles-js-canvas-el {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 0;
+}
+
+/** Estilos Contenedor **/
+.content-bck {
+    background-image: url('../img/fondo.png');
+    background-repeat: repeat;
+    background-size: cover;
+    background-color: #1b1c1d;
+    animation: bck-animated 100s linear infinite;
+}
+
+@keyframes bck-animated {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 0 2219px;
+    }
+}
+
+/** Estilos contenedor de imagenes **/
+.imagenes {
+    background-color: $blanco;
+    border-radius: 30px;
+}
+
+.respuesta ~ input {
+    position: absolute;
+}

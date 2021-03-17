@@ -1,0 +1,99 @@
+{
+    "pantallas": {
+        "pantalla1": {
+            "id": 1,
+            "titulo": "",
+            "txtGeneral": "Es importante tomar dos decisiones principales para la definición del diseño metodológico (Johnson y Onwuegbuzie, 2004) La primera decisión está relacionada con el <b>momento</b> en el que se desarrolla lo cualitativo y lo cuantitativo... Es importante revisar el tiempo en el que se llevan a cabo los dos enfoques metodológicos. Esto permite identificar si el diseño es paralelo o secuencial.",
+            "opcContainer": {
+                "header": {
+                    "content": "En tu diseño ¿Lo cualitativo y lo cuantitativo se desarrollan al tiempo o primero se desarrolla un método y luego el otro? ",
+                    "class":"text-color-red"
+                }, 
+                "opciones": {
+                    "opcion1": {
+                        "id": 21,
+                        "tipo": "respuesta",
+                        "texto": "Al tiempo",
+                        "imagen": "",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
+                        "class":"text-color-red"
+                    },
+                    "opcion2": {
+                        "id": 22,
+                        "tipo": "respuesta",
+                        "texto": "Primero uno",
+                        "imagen": "",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
+                        "class":"text-color-red"
+                    }
+                }
+            }
+        },
+        "pantalla21": {
+            "id": 21,
+            "titulo": "¡Que bien! Tu diseño es PARALELO",
+            "txtGeneral": "Ahora, la segunda decisión está relacionada con cuál metodología <b>predomina</b> en tu diseño... Es importante definir antes si la investigación prioriza uno de los dos enfoques sobre el otro. Esto permite identificar si el diseño es concurrente o embebido y ayuda al lector a comprender mejor la visión del investigador. De acuerdo con Morse y colegas (2006), se indica la predominancia del método escribiéndolo en Mayúsculas.",
+            "opcContainer": {
+                "header": {
+                    "content": "En tu diseño ¿lo cualitativo y lo cuantitativo están balanceados o hay una metodología que predomine sobre la otra?",
+                    "class":"text-color-blue"
+                }, 
+                "opciones": {
+                    "opcion1": {
+                        "id": 31,
+                        "tipo": "respuesta",
+                        "texto": "La cualitativa",
+                        "imagen": "",
+                        "cita": " ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "class":"text-color-blue"
+                    },
+                    "opcion2": {
+                        "id": 32,
+                        "tipo": "respuesta",
+                        "texto": "La cuantitativa",
+                        "imagen": "",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "class":"text-color-blue"
+                    },
+                    "opcion3": {
+                        "id": 33,
+                        "tipo": "respuesta",
+                        "texto": "Ambas",
+                        "imagen": "",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
+                        "class":"text-color-blue"
+                    }
+                }
+            }
+        },
+        "pantalla22": {
+            "id": 22,
+            "titulo": "¡Que bien! Tu diseño es en SERIE",
+            "txtGeneral": "Ahora, la segunda decisión está relacionada con cuál metodología <b>predomina</b> en tu diseño... Es importante definir antes si la investigación prioriza uno de los dos enfoques sobre el otro. Esto permite identificar si el diseño  es concurrente o embebido y ayuda al lector a comprender mejor la visión del investigador. De acuerdo con Morse y colegas (2006), se indica la predominancia del método escribiéndolo en Mayúsculas.",
+            "opcContainer": {
+                "header": {
+                    "content": "En tu diseño ¿lo cualitativo se prioriza sobre lo cuantitativo o lo cuantitativo se prioriza sobre lo cualitativo? ",
+                    "class":"text-color-blue"
+                }, 
+                "opciones": {
+                    "opcion1": {
+                        "id": 34,
+                        "tipo": "respuesta",
+                        "texto": "Diseño prioriza lo cualitativo",
+                        "imagen": "",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "class":"text-color-blue"
+                    },
+                    "opcion2": {
+                        "id": 35,
+                        "tipo": "respuesta",
+                        "texto": "Diseño prioriza lo cuantitativo",
+                        "imagen": "",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "class":"text-color-blue"
+                    }
+                }
+            }
+        }
+    }
+}
