@@ -19,7 +19,7 @@ $amarillo: #fd893b;
 body {
     font-family: $font-family;
     font-size: $font-size;
-    font-weight: 400;
+    font-weight: 200;
     color: $blanco;
 }
 
@@ -54,9 +54,18 @@ hr {
     color: $azul;
 }
 
+.text-color-orange {
+    color: $amarillo;
+}
+
 /** Estilos Banner **/
 .banner-text {
     position: relative;
+    height: 200px;
+
+    img {
+        height: 100%;
+    }
 
     p {
         position: absolute;
@@ -65,7 +74,7 @@ hr {
         left: 0;
         right: 0;
         display: flex;
-        justify-content: center;
+        justify-content: flex-start;
         align-items: center;
         padding: 0 1em;
         text-transform: uppercase;
@@ -114,6 +123,22 @@ canvas.particles-js-canvas-el {
     }
 }
 
+/** Estilos contenedor general **/
+#txtGeneral {
+    h3 {
+        span {
+            color: $amarillo;
+        }
+    }
+
+    p {
+        span {
+            color: $amarillo;
+            font-weight: 700;
+        }
+    }
+}
+
 /** Estilos contenedor de imagenes **/
 .imagenes {
     background-color: $blanco;
@@ -122,4 +147,47 @@ canvas.particles-js-canvas-el {
 
 .respuesta ~ input {
     position: absolute;
+}
+
+p.cita {
+    margin: 0;
+    margin-top: 20px;
+    font-size: $font-size - 0.3;
+}
+
+.badge {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 8px 15px 5px 40px;
+    border-radius: 12px;
+    margin-left: -30px;
+    margin-top: -3px;
+    font-size: $font-size;
+    font-weight: 300;
+
+    &.text-color-red {
+        background-color: $rojo;
+        color: $blanco;
+    }
+    
+    &.text-color-blue {
+    background-color: $azul;
+        color: $blanco;
+    }
+    
+    &.text-color-orange {
+    background-color: $amarillo;
+        color: $blanco;
+    }
+}
+
+
+@media (max-width: 566px) {
+    .banner-text {
+        height: auto;
+        p {
+            font-size: calc(1.5em + 1vw);
+        }
+    }
 }

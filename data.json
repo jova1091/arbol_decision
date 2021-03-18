@@ -14,7 +14,7 @@
                         "id": 21,
                         "tipo": "respuesta",
                         "texto": "Al tiempo",
-                        "imagen": "",
+                        "imagen": "assets/img/figura_11.svg",
                         "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
                         "class":"text-color-red"
                     },
@@ -22,7 +22,7 @@
                         "id": 22,
                         "tipo": "respuesta",
                         "texto": "Primero uno",
-                        "imagen": "",
+                        "imagen": "assets/img/figura_12.svg",
                         "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
                         "class":"text-color-red"
                     }
@@ -43,7 +43,7 @@
                         "id": 31,
                         "tipo": "respuesta",
                         "texto": "La cualitativa",
-                        "imagen": "",
+                        "imagen": "assets/img/figura_21.svg",
                         "cita": " ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-blue"
                     },
@@ -51,7 +51,7 @@
                         "id": 32,
                         "tipo": "respuesta",
                         "texto": "La cuantitativa",
-                        "imagen": "",
+                        "imagen": "assets/img/figura_22.svg",
                         "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-blue"
                     },
@@ -59,7 +59,7 @@
                         "id": 33,
                         "tipo": "respuesta",
                         "texto": "Ambas",
-                        "imagen": "",
+                        "imagen": "assets/img/figura_23.svg",
                         "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
                         "class":"text-color-blue"
                     }
@@ -80,7 +80,7 @@
                         "id": 34,
                         "tipo": "respuesta",
                         "texto": "Diseño prioriza lo cualitativo",
-                        "imagen": "",
+                        "imagen": "assets/img/figura_24.svg",
                         "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-blue"
                     },
@@ -88,9 +88,114 @@
                         "id": 35,
                         "tipo": "respuesta",
                         "texto": "Diseño prioriza lo cuantitativo",
-                        "imagen": "",
+                        "imagen": "assets/img/figura_25.svg",
                         "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-blue"
+                    }
+                }
+            }
+        },
+        "pantalla31": {
+            "id": 31,
+            "titulo": "Tu diseño es <span>Secuencial Explicativo</span>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAN->Cual</span> para identificarlo. La finalidad del diseño secuencial explicativo es dar explicaciones detalladas a resultados generales. A veces las respuestas a encuestas masivas nos dejan con muchas dudas y una aproximación mixta ofrece algunas de estas respuestas. Un diseño popular es el utilizar encuestas para identificar casos especiales de sujetos para entender mejor un fenómeno. Una vez identificados estos casos especiales, se pueden llevar a cabo entrevistas, visitas en campo, o grupos focales, que permitan entender a profundidad cada caso. <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "opcContainer": {
+                "header": {
+                    "content": "",
+                    "class":"text-color-orange"
+                }, 
+                "opciones": {
+                    "opcion1": {
+                        "id": "",
+                        "tipo": "final",
+                        "texto": "",
+                        "imagen": "assets/img/figura_31.svg",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "class":"text-color-orange"
+                    }
+                }
+            }
+        },
+        "pantalla32": {
+            "id": 32,
+            "titulo": "Tu diseño es <span>Secuencial Exploratorio</span>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL->Cuan</span> para identificarlo. La finalidad del diseño secuencial exploratorio es buscar elementos en profundidad que permitan generar algunos hallazgos en los que se pueda basar una aproximación más general. Un típico ejemplo es el diseño de encuestas, en el cual se hacen entrevistas o grupos focales de expertos que identifican temas o constructos claves con los que se estructura la encuesta. A partir de este primer diseño se aplica un piloto en el que, estadísticamente, se analiza la consistencia, dificultad, factores, etc.. <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "opcContainer": {
+                "header": {
+                    "content": "",
+                    "class":"text-color-orange"
+                }, 
+                "opciones": {
+                    "opcion1": {
+                        "id": "",
+                        "tipo": "final",
+                        "texto": "",
+                        "imagen": "assets/img/figura_32.svg",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "class":"text-color-orange"
+                    }
+                }
+            }
+        },
+        "pantalla33": {
+            "id": 33,
+            "titulo": "Tu diseño es <span>Concurrente</span>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL + CUAN</span> para identificarlo. La finalidad del diseño concurrente es verificar la información por medio de varias fuentes datos. Se contrastan o comparan los hallazgos cualitativos con los cuantitativos para tener un panorama más completo del fenómeno estudiado. Esta aproximación es común en la investigación en aula, donde se recolectan datos numéricos (ej. calificaciones, edades, fechas, ubicaciones) y datos cualitativos (ej. dibujos de los estudiantes, ensayos, cuadernos, disposición del salón). <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "opcContainer": {
+                "header": {
+                    "content": "",
+                    "class":"text-color-orange"
+                }, 
+                "opciones": {
+                    "opcion1": {
+                        "id": "",
+                        "tipo": "final",
+                        "texto": "",
+                        "imagen": "assets/img/figura_33.svg",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
+                        "class":"text-color-orange"
+                    }
+                }
+            }
+        },
+        "pantalla34": {
+            "id": 34,
+            "titulo": "Tu diseño es <span>Embebido (Cual)</span>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL + Cuan</span> para identificarlo. La finalidad del diseño embebido es ofrecer una visión complementaria a la investigación inicialmente cualitativa. Un complemento cuantitativo te permitirá llegar a conclusiones sobre el estudio cualitativo.<br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "opcContainer": {
+                "header": {
+                    "content": "",
+                    "class":"text-color-orange"
+                }, 
+                "opciones": {
+                    "opcion1": {
+                        "id": "",
+                        "tipo": "final",
+                        "texto": "",
+                        "imagen": "assets/img/figura_34.svg",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "class":"text-color-orange"
+                    }
+                }
+            }
+        },
+        "pantalla35": {
+            "id": 35,
+            "titulo": "Tu diseño es <span>Embebido (Cuan)</span>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación CUAN + Cual para identificarlo. La finalidad del diseño embebido es ofrecer una visión complementaria a la investigación inicialmente cuantitativa. Un complemento cualitativo te permitirá tener elementos casuísticos en el estudio cualitativo.<br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "opcContainer": {
+                "header": {
+                    "content": "",
+                    "class":"text-color-orange"
+                }, 
+                "opciones": {
+                    "opcion1": {
+                        "id": "",
+                        "tipo": "final",
+                        "texto": "",
+                        "imagen": "assets/img/figura_35.svg",
+                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "class":"text-color-orange"
                     }
                 }
             }

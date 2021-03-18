@@ -60,17 +60,27 @@ function showScreens(jsonObj, term) {
     }
     
     $.each(opciones,(i, item) => {
-        let opcTemplate = `
-        <div class="form-check d-flex flex-column justify-content-start col-md-6 col-sm-12 py-3">
-            <label class="form-check-label d-flex flex-column justify-content-start ${item.tipo} ${item.class}" data-option="${item.id}" for="flexRadioDefault${i}">
-                ${item.texto}
+        if( item.tipo == "respuesta" ) {
+            let opcTemplate = `
+            <div class="form-check d-flex flex-column justify-content-start col-md-6 col-sm-12 py-3">
+                <label class="form-check-label d-flex flex-column justify-content-start ${item.tipo} ${item.class}" data-option="${item.id}" for="flexRadioDefault${i}">
+                    <span class="badge ${item.class}">${item.texto}</span>
+                    <img src="${item.imagen}" alt="Imagen ${item.texto}">
+                    <p class="cita">${item.cita}</p>
+                </label>
+                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault${i}" onclick="sendOption('${item.id}')">
+            </div>
+            `;
+            opcionesData += opcTemplate;
+        } else {
+            let opcTemplate = `
+            <div class="form-check d-flex flex-column justify-content-start col-md-12 col-sm-12 ${item.class}">
                 <img src="${item.imagen}" alt="Imagen ${item.texto}">
-                <p class="cita">${item.cita}</p>
-            </label>
-            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault${i}" onclick="sendOption('${item.id}')">
-        </div>
-        `;
-        opcionesData += opcTemplate;
+                <p class="cita ${item.class}">${item.cita}</p>
+            </div>
+            `;
+            opcionesData += opcTemplate;
+        }
     })
 
     tituloGeneralItem.html(tituloGen);
