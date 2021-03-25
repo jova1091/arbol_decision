@@ -3,7 +3,7 @@
         "pantalla1": {
             "id": 1,
             "titulo": "",
-            "txtGeneral": "Es importante tomar dos decisiones principales para la definición del diseño metodológico (Johnson y Onwuegbuzie, 2004) La primera decisión está relacionada con el <b>momento</b> en el que se desarrolla lo cualitativo y lo cuantitativo... Es importante revisar el tiempo en el que se llevan a cabo los dos enfoques metodológicos. Esto permite identificar si el diseño es paralelo o secuencial.",
+            "txtGeneral": "Es importante tomar dos decisiones principales para la definición del diseño metodológico (Johnson y Onwuegbuzie, 2004).<br><br>La primera decisión está relacionada con el <b>momento</b> en el que se desarrolla lo cualitativo y lo cuantitativo...<br><br>Es importante revisar el tiempo en el que se llevan a cabo los dos enfoques metodológicos. Esto permite identificar si el diseño es paralelo o secuencial.",
             "opcContainer": {
                 "header": {
                     "content": "En tu diseño ¿Lo cualitativo y lo cuantitativo se desarrollan al tiempo o primero se desarrolla un método y luego el otro? ",
@@ -32,7 +32,7 @@
         "pantalla21": {
             "id": 21,
             "titulo": "¡Que bien! Tu diseño es PARALELO",
-            "txtGeneral": "Ahora, la segunda decisión está relacionada con cuál metodología <b>predomina</b> en tu diseño... Es importante definir antes si la investigación prioriza uno de los dos enfoques sobre el otro. Esto permite identificar si el diseño es concurrente o embebido y ayuda al lector a comprender mejor la visión del investigador. De acuerdo con Morse y colegas (2006), se indica la predominancia del método escribiéndolo en Mayúsculas.",
+            "txtGeneral": "Ahora, la segunda decisión está relacionada con cuál metodología <b>predomina</b> en tu diseño...<br><br>Es importante definir antes si la investigación prioriza uno de los dos enfoques sobre el otro. Esto permite identificar si el diseño es concurrente o embebido y ayuda al lector a comprender mejor la visión del investigador. De acuerdo con Morse y colegas (2006), se indica la predominancia del método escribiéndolo en Mayúsculas.",
             "opcContainer": {
                 "header": {
                     "content": "En tu diseño ¿lo cualitativo y lo cuantitativo están balanceados o hay una metodología que predomine sobre la otra?",
@@ -40,7 +40,7 @@
                 }, 
                 "opciones": {
                     "opcion1": {
-                        "id": 31,
+                        "id": 34,
                         "tipo": "respuesta",
                         "texto": "La cualitativa",
                         "imagen": "assets/img/figura_21.svg",
@@ -48,7 +48,7 @@
                         "class":"text-color-blue"
                     },
                     "opcion2": {
-                        "id": 32,
+                        "id": 35,
                         "tipo": "respuesta",
                         "texto": "La cuantitativa",
                         "imagen": "assets/img/figura_22.svg",
@@ -69,7 +69,7 @@
         "pantalla22": {
             "id": 22,
             "titulo": "¡Que bien! Tu diseño es en SERIE",
-            "txtGeneral": "Ahora, la segunda decisión está relacionada con cuál metodología <b>predomina</b> en tu diseño... Es importante definir antes si la investigación prioriza uno de los dos enfoques sobre el otro. Esto permite identificar si el diseño  es concurrente o embebido y ayuda al lector a comprender mejor la visión del investigador. De acuerdo con Morse y colegas (2006), se indica la predominancia del método escribiéndolo en Mayúsculas.",
+            "txtGeneral": "Ahora, la segunda decisión está relacionada con cuál metodología <b>predomina</b> en tu diseño...<br><br>Es importante definir antes si la investigación prioriza uno de los dos enfoques sobre el otro. Esto permite identificar si el diseño  es concurrente o embebido y ayuda al lector a comprender mejor la visión del investigador. De acuerdo con Morse y colegas (2006), se indica la predominancia del método escribiéndolo en Mayúsculas.",
             "opcContainer": {
                 "header": {
                     "content": "En tu diseño ¿lo cualitativo se prioriza sobre lo cuantitativo o lo cuantitativo se prioriza sobre lo cualitativo? ",
@@ -77,7 +77,7 @@
                 }, 
                 "opciones": {
                     "opcion1": {
-                        "id": 34,
+                        "id": 32,
                         "tipo": "respuesta",
                         "texto": "Diseño prioriza lo cualitativo",
                         "imagen": "assets/img/figura_24.svg",
@@ -85,7 +85,7 @@
                         "class":"text-color-blue"
                     },
                     "opcion2": {
-                        "id": 35,
+                        "id": 31,
                         "tipo": "respuesta",
                         "texto": "Diseño prioriza lo cuantitativo",
                         "imagen": "assets/img/figura_25.svg",
@@ -98,7 +98,7 @@
         "pantalla31": {
             "id": 31,
             "titulo": "Tu diseño es <span>Secuencial Explicativo</span>",
-            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAN->Cual</span> para identificarlo. La finalidad del diseño secuencial explicativo es dar explicaciones detalladas a resultados generales. A veces las respuestas a encuestas masivas nos dejan con muchas dudas y una aproximación mixta ofrece algunas de estas respuestas. Un diseño popular es el utilizar encuestas para identificar casos especiales de sujetos para entender mejor un fenómeno. Una vez identificados estos casos especiales, se pueden llevar a cabo entrevistas, visitas en campo, o grupos focales, que permitan entender a profundidad cada caso. <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAN->Cual</span> para identificarlo.<br><br>La finalidad del diseño secuencial explicativo es dar explicaciones detalladas a resultados generales. A veces las respuestas a encuestas masivas nos dejan con muchas dudas y una aproximación mixta ofrece algunas de estas respuestas. Un diseño popular es el utilizar encuestas para identificar casos especiales de sujetos para entender mejor un fenómeno. Una vez identificados estos casos especiales, se pueden llevar a cabo entrevistas, visitas en campo, o grupos focales, que permitan entender a profundidad cada caso. <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
             "opcContainer": {
                 "header": {
                     "content": "",
@@ -119,7 +119,7 @@
         "pantalla32": {
             "id": 32,
             "titulo": "Tu diseño es <span>Secuencial Exploratorio</span>",
-            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL->Cuan</span> para identificarlo. La finalidad del diseño secuencial exploratorio es buscar elementos en profundidad que permitan generar algunos hallazgos en los que se pueda basar una aproximación más general. Un típico ejemplo es el diseño de encuestas, en el cual se hacen entrevistas o grupos focales de expertos que identifican temas o constructos claves con los que se estructura la encuesta. A partir de este primer diseño se aplica un piloto en el que, estadísticamente, se analiza la consistencia, dificultad, factores, etc.. <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL->Cuan</span> para identificarlo.<br><br>La finalidad del diseño secuencial exploratorio es buscar elementos en profundidad que permitan generar algunos hallazgos en los que se pueda basar una aproximación más general. Un típico ejemplo es el diseño de encuestas, en el cual se hacen entrevistas o grupos focales de expertos que identifican temas o constructos claves con los que se estructura la encuesta. A partir de este primer diseño se aplica un piloto en el que, estadísticamente, se analiza la consistencia, dificultad, factores, etc.. <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
             "opcContainer": {
                 "header": {
                     "content": "",
@@ -140,7 +140,7 @@
         "pantalla33": {
             "id": 33,
             "titulo": "Tu diseño es <span>Concurrente</span>",
-            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL + CUAN</span> para identificarlo. La finalidad del diseño concurrente es verificar la información por medio de varias fuentes datos. Se contrastan o comparan los hallazgos cualitativos con los cuantitativos para tener un panorama más completo del fenómeno estudiado. Esta aproximación es común en la investigación en aula, donde se recolectan datos numéricos (ej. calificaciones, edades, fechas, ubicaciones) y datos cualitativos (ej. dibujos de los estudiantes, ensayos, cuadernos, disposición del salón). <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL + CUAN</span> para identificarlo.<br><br>La finalidad del diseño concurrente es verificar la información por medio de varias fuentes datos. Se contrastan o comparan los hallazgos cualitativos con los cuantitativos para tener un panorama más completo del fenómeno estudiado. Esta aproximación es común en la investigación en aula, donde se recolectan datos numéricos (ej. calificaciones, edades, fechas, ubicaciones) y datos cualitativos (ej. dibujos de los estudiantes, ensayos, cuadernos, disposición del salón). <br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
             "opcContainer": {
                 "header": {
                     "content": "",
@@ -161,7 +161,7 @@
         "pantalla34": {
             "id": 34,
             "titulo": "Tu diseño es <span>Embebido (Cual)</span>",
-            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL + Cuan</span> para identificarlo. La finalidad del diseño embebido es ofrecer una visión complementaria a la investigación inicialmente cualitativa. Un complemento cuantitativo te permitirá llegar a conclusiones sobre el estudio cualitativo.<br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAL + Cuan</span> para identificarlo.<br><br>La finalidad del diseño embebido es ofrecer una visión complementaria a la investigación inicialmente cualitativa. Un complemento cuantitativo te permitirá llegar a conclusiones sobre el estudio cualitativo.<br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
             "opcContainer": {
                 "header": {
                     "content": "",
@@ -182,7 +182,7 @@
         "pantalla35": {
             "id": 35,
             "titulo": "Tu diseño es <span>Embebido (Cuan)</span>",
-            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación CUAN + Cual para identificarlo. La finalidad del diseño embebido es ofrecer una visión complementaria a la investigación inicialmente cuantitativa. Un complemento cualitativo te permitirá tener elementos casuísticos en el estudio cualitativo.<br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
+            "txtGeneral": "Para facilitar la comunicación, Morse y colegas (2006) utilizan la notación <span>CUAN + Cual</span> para identificarlo.<br><br>La finalidad del diseño embebido es ofrecer una visión complementaria a la investigación inicialmente cuantitativa. Un complemento cualitativo te permitirá tener elementos casuísticos en el estudio cualitativo.<br><br><b>Una buena comunicación del diseño metodológico presenta siempre el esquema de diseño, en tu caso es el siguiente:</b>",
             "opcContainer": {
                 "header": {
                     "content": "",

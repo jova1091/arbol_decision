@@ -65,7 +65,7 @@ function showScreens(jsonObj, term) {
             <div class="form-check d-flex flex-column justify-content-start col-md-6 col-sm-12 py-3">
                 <label class="form-check-label d-flex flex-column justify-content-start ${item.tipo} ${item.class}" data-option="${item.id}" for="flexRadioDefault${i}">
                     <span class="badge ${item.class}">${item.texto}</span>
-                    <img src="${item.imagen}" alt="Imagen ${item.texto}">
+                    <img src="${item.imagen}" alt="Imagen ${item.texto}" class="mt-3">
                     <p class="cita">${item.cita}</p>
                 </label>
                 <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault${i}" onclick="sendOption('${item.id}')">
@@ -85,7 +85,7 @@ function showScreens(jsonObj, term) {
 
     tituloGeneralItem.html(tituloGen);
     parrafoGeneralItem.html(parrafoGen);
-    headerOpcionesItem.attr('class', "").addClass(headerOpcClass);
+    headerOpcionesItem.attr('class', "").addClass(headerOpcClass + ' mb-4');
     headerOpcionesItem.html(headerOpc);
     opcionesItem.html(opcionesData);
 }
