@@ -15,7 +15,7 @@
                         "tipo": "respuesta",
                         "texto": "Al tiempo",
                         "imagen": "assets/img/figura_11.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
                         "class":"text-color-red"
                     },
                     "opcion2": {
@@ -23,7 +23,7 @@
                         "tipo": "respuesta",
                         "texto": "Primero uno",
                         "imagen": "assets/img/figura_12.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
                         "class":"text-color-red"
                     }
                 }
@@ -52,7 +52,7 @@
                         "tipo": "respuesta",
                         "texto": "La cuantitativa",
                         "imagen": "assets/img/figura_22.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-blue"
                     },
                     "opcion3": {
@@ -60,7 +60,7 @@
                         "tipo": "respuesta",
                         "texto": "Ambas",
                         "imagen": "assets/img/figura_23.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
                         "class":"text-color-blue"
                     }
                 }
@@ -81,7 +81,7 @@
                         "tipo": "respuesta",
                         "texto": "Diseño prioriza lo cualitativo",
                         "imagen": "assets/img/figura_24.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-blue"
                     },
                     "opcion2": {
@@ -89,7 +89,7 @@
                         "tipo": "respuesta",
                         "texto": "Diseño prioriza lo cuantitativo",
                         "imagen": "assets/img/figura_25.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-blue"
                     }
                 }
@@ -110,7 +110,7 @@
                         "tipo": "final",
                         "texto": "",
                         "imagen": "assets/img/figura_31.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-orange"
                     }
                 }
@@ -131,7 +131,7 @@
                         "tipo": "final",
                         "texto": "",
                         "imagen": "assets/img/figura_32.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-orange"
                     }
                 }
@@ -152,7 +152,7 @@
                         "tipo": "final",
                         "texto": "",
                         "imagen": "assets/img/figura_33.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011)",
                         "class":"text-color-orange"
                     }
                 }
@@ -173,7 +173,7 @@
                         "tipo": "final",
                         "texto": "",
                         "imagen": "assets/img/figura_34.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-orange"
                     }
                 }
@@ -194,7 +194,7 @@
                         "tipo": "final",
                         "texto": "",
                         "imagen": "assets/img/figura_35.svg",
-                        "cita": "| ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
+                        "cita": "ADAPTADO DE CRESWELL & PLANO CLARKE (2011) Y MORSE ET AL. (2006)",
                         "class":"text-color-orange"
                     }
                 }

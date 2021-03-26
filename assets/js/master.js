@@ -10,6 +10,10 @@ $(document).ready(() => {
         dataJson = request.response;
         showScreens(dataJson, '');
     }
+
+    $('.refresh').click(() => {
+        sendOption('1')
+    });
 });
 
 function sendOption(data) {
