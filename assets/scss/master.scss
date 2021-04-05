@@ -157,6 +157,10 @@ p.cita {
     font-weight: 500;
 }
 
+.form-check-label {
+    cursor: pointer;
+}
+
 .badge {
     width: -webkit-fit-content;
     width: -moz-fit-content;
@@ -191,5 +195,9 @@ p.cita {
         p {
             font-size: calc(1.5em + 1vw);
         }
+    }
+
+    .badge {
+        font-size: $font-size - .1;
     }
 }

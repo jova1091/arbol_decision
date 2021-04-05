@@ -66,9 +66,9 @@ function showScreens(jsonObj, term) {
     $.each(opciones,(i, item) => {
         if( item.tipo == "respuesta" ) {
             let opcTemplate = `
-            <div class="form-check d-flex flex-column justify-content-start col-md-6 col-sm-12 py-3">
+            <div class="form-check d-flex flex-column justify-content-start col-lg-6 col-md-12 col-sm-12 py-3">
                 <label class="form-check-label d-flex flex-column justify-content-start ${item.tipo} ${item.class}" data-option="${item.id}" for="flexRadioDefault${i}">
-                    <span class="badge ${item.class}">${item.texto}</span>
+                    <span class="badge ${item.class} animate__animated animate__slower animate__infinite animate__headShake">${item.texto}</span>
                     <img src="${item.imagen}" alt="Imagen ${item.texto}" class="mt-3">
                     <p class="cita">${item.cita}</p>
                 </label>
